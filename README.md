@@ -10,12 +10,12 @@
 
 ## Tópicos
 
-- [Tópico 1](#tópico-1)
-- [Tópico 2](#tópico-2)
-- [Tópico 3](#tópico-3)
-- [Tópico 4](#tópico-4)
-- [Tópico 5](#tópico-5)
-- [Tópico 6](#tópico-6)
+- [Tópico 1 - Imagem](#tópico-1)
+- [Tópico 2 - Descrição](#tópico-2)
+- [Tópico 3 - Status](#tópico-3)
+- [Tópico 4 - Acesso](#tópico-4)
+- [Tópico 5 - Tecnologias](#tópico-5)
+- [Tópico 6 - Licença](#tópico-6)
 
 <br>
 
